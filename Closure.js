@@ -1,5 +1,4 @@
 //contoh closure
-
 let outer = () => {
     let b= 10
     let inner = () => {

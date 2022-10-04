@@ -20,7 +20,7 @@ Rangkuman Materi Javascript mengenai:
 
 9.Promises dan Async/Await
 
-##Author
+## Author
 
 Ardhito Saputra 
 
